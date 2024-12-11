@@ -23,5 +23,4 @@ for num in col1:
         dict[num] = count
         total += count
 
-
 print(total)
